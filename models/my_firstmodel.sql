@@ -1,1 +1,1 @@
-select * from `vishakha-403211.taxi_rides_ny.yellow_tripdata_ml`
+select * from bigquery-public-data.cms_medicare.home_health_agencies_2013 limit 20
